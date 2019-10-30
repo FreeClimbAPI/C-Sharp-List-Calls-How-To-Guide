@@ -1,0 +1,10 @@
+/Users/gmiller/Workspaces/Vail/Persy/Tutorials/ListCalls/bin/Debug/netcoreapp2.2/ListCalls.deps.json
+/Users/gmiller/Workspaces/Vail/Persy/Tutorials/ListCalls/bin/Debug/netcoreapp2.2/ListCalls.runtimeconfig.json
+/Users/gmiller/Workspaces/Vail/Persy/Tutorials/ListCalls/bin/Debug/netcoreapp2.2/ListCalls.runtimeconfig.dev.json
+/Users/gmiller/Workspaces/Vail/Persy/Tutorials/ListCalls/bin/Debug/netcoreapp2.2/ListCalls.dll
+/Users/gmiller/Workspaces/Vail/Persy/Tutorials/ListCalls/bin/Debug/netcoreapp2.2/ListCalls.pdb
+/Users/gmiller/Workspaces/Vail/Persy/Tutorials/ListCalls/obj/Debug/netcoreapp2.2/ListCalls.csprojAssemblyReference.cache
+/Users/gmiller/Workspaces/Vail/Persy/Tutorials/ListCalls/obj/Debug/netcoreapp2.2/ListCalls.AssemblyInfoInputs.cache
+/Users/gmiller/Workspaces/Vail/Persy/Tutorials/ListCalls/obj/Debug/netcoreapp2.2/ListCalls.AssemblyInfo.cs
+/Users/gmiller/Workspaces/Vail/Persy/Tutorials/ListCalls/obj/Debug/netcoreapp2.2/ListCalls.dll
+/Users/gmiller/Workspaces/Vail/Persy/Tutorials/ListCalls/obj/Debug/netcoreapp2.2/ListCalls.pdb
