@@ -7,8 +7,8 @@ namespace ListCalls {
   class Program  {
     static void Main (string[] args) {
       string freeClimbAccountId = System.Environment.GetEnvironmentVariable("ACCOUNT_ID");
-      string freeClimbAccountToken = System.Environment.GetEnvironmentVariable("AUTH_TOKEN");
-      FreeClimbClient client = new FreeClimbClient (freeClimbAccountId, freeClimbAccountToken);
+      string freeClimbApiKey = System.Environment.GetEnvironmentVariable("API_KEY");
+      FreeClimbClient client = new FreeClimbClient (freeClimbAccountId, freeClimbApiKey);
       CallList callList = client.getCallsRequester.get ();
       if (callList.getTotalSize > 0) {
         while (callList.getLocalSize < callList.getTotalSize) {
