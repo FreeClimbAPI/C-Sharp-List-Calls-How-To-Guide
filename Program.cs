@@ -46,20 +46,6 @@ namespace ListCalls
                 Console.WriteLine(callList.Calls[i]);
             }
 
-            // CallList callList = client.getCallsRequester.get();
-            // if (callList.getTotalSize > 0)
-            // {
-            //     while (callList.getLocalSize < callList.getTotalSize)
-            //     {
-            //         callList.loadNextPage();
-            //     }
-            //     LinkedList<IFreeClimbCommon> commonList = callList.export();
-            //     foreach (IFreeClimbCommon element in commonList)
-            //     {
-            //         Call call = element as Call;
-            //         Console.WriteLine(call.getCallId);
-            //     }
-            // }
         }
     }
 }
